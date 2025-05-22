@@ -12,7 +12,7 @@ const AboutSection = () => {
     {
       institution: "KSN Junior College",
       degree: "Intermediate Education",
-      period: "2019 - 2021",
+      period: "2020 - 2022",
       details: "Completed intermediate education with focus on Mathematics and Science."
     },
     {
