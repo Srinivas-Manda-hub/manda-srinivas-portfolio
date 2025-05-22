@@ -18,7 +18,7 @@ const AboutSection = () => {
     {
       institution: "Secondary School",
       degree: "9th & 10th Standard",
-      period: "2018 - 2019",
+      period: "2019 - 2020",
       details: "Completed secondary education (9th and 10th grade)."
     },
     {
