@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const AboutSection = () => {
@@ -16,10 +15,16 @@ const AboutSection = () => {
       details: "Completed intermediate education with focus on Mathematics and Science."
     },
     {
+      institution: "Secondary School",
+      degree: "9th & 10th Standard",
+      period: "2019 - 2020",
+      details: "Completed secondary education (9th and 10th grade)."
+    },
+    {
       institution: "Sri Vidya Nidhi & Narayana Schools",
-      degree: "Secondary Education",
-      period: "2019 & Prior",
-      details: "Completed schooling with strong academic foundation."
+      degree: "Primary Education",
+      period: "Prior to 2019",
+      details: "Completed primary schooling with strong academic foundation."
     }
   ];
 
