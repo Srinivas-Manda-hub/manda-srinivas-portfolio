@@ -1,3 +1,4 @@
+
 import React from 'react';
 
 const AboutSection = () => {
@@ -17,7 +18,7 @@ const AboutSection = () => {
     {
       institution: "Secondary School",
       degree: "9th & 10th Standard",
-      period: "2019 - 2020",
+      period: "2018 - 2019",
       details: "Completed secondary education (9th and 10th grade)."
     },
     {
