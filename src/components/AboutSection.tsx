@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const AboutSection = () => {
@@ -6,7 +5,7 @@ const AboutSection = () => {
     {
       institution: "Pydah College of Engineering",
       degree: "BTech in Computer Science",
-      period: "2021 - Present",
+      period: "2023 - 2027",
       details: "Currently pursuing Bachelor of Technology in Computer Science Engineering."
     },
     {
