@@ -10,7 +10,7 @@ const PortfolioSection = () => {
       description: "A full-fledged e-commerce platform developed during my internship at Corizo, featuring product listings, shopping cart, user authentication, and payment integration.",
       technologies: ["HTML", "CSS", "JavaScript", "Python", "Database"],
       image: "/placeholder.svg",
-      link: "#"
+      link: "https://danui123.github.io/Mjr-project/"
     },
     {
       title: "CRUD Operations Web App",
